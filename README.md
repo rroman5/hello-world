@@ -1,2 +1,6 @@
 # hello-world
-The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
+# hello-world
+Hello people 
+My name is Roberto Roman, and Im a freak towards technology. Especially with blockchain and coding. 
+I know a little of HTML, CSS, and javascript.
+You can say that im passionate with the world of computing
